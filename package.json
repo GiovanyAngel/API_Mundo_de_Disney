@@ -1,0 +1,29 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "API en nodeJs sobre el mundo de Disney, personajes, películas y series",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "Disney",
+    "personajes",
+    "series",
+    "peliculas"
+  ],
+  "author": "Giovany Angel",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.1",
+    "mysql2": "^3.6.0",
+    "nodemailer": "^6.9.4",
+    "sequelize": "^6.32.1",
+    "sequelize-cli": "^6.6.1",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.0"
+  }
+}
